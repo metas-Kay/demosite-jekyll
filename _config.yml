@@ -16,7 +16,7 @@
 title: Great web agency
 email: kay.kostelnik@metasfresh.com
 description: "Great web agency offers high impact yet affordable web development services. From web design to targeed SEO to custom web applications."
-baseurl: "demosite-jekyll/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://metas-kay.github.io/demosite-jekyll/" # the base hostname & protocol for your site, e.g. http://example.com
 fullurl: "https://metas-kay.github.io/demosite-jekyll/"
 twitter_username: jekyllrb
